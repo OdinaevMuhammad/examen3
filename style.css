@@ -519,7 +519,7 @@ input{
     outline: none;
     border: none;
     padding: 12.5px 130px;
-    
+    padding-left: 10px;
 }
 form input{
     font-family: 'Arial';
